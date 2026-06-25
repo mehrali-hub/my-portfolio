@@ -30,5 +30,5 @@ I am currently focused on pushing the boundaries of AI research and full-stack s
 opportunities.
 *   **Email**: [sheikhmehrali5@gmail.com](mailto:sheikhmehrali5@gmail.com)
 *   **Kaggle**: [mehralieng](https://www.kaggle.com/mehralieng)
-*   **GitHub**: [mehrali-hub](https://github.com/mehrali-hub)
+*   **GitHub**: [mehrali-hub](https://github.com/Astreonix)
    
