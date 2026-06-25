@@ -41,7 +41,7 @@ A robust, menu-driven **C++17 console application** engineered for efficient lib
 * **Storage:** Local File I/O
 
 ### **Access the Source**
-👉 [View Repository on GitHub](https://github.com/mehrali-hub/AI-powered-library-management-system)
+👉 [View Repository on GitHub](https://github.com/Astreonix/AI-powered-library-management-system)
 
 ---
 
@@ -69,7 +69,7 @@ The **Student Digital Twin System** is a sophisticated console-based C++ applica
 This project demonstrates an ability to move beyond basic coding to **architectural design**. By leveraging polymorphism, you show how to write clean, reusable, and extensible code that can easily scale as new student categories or analytics requirements are added.
 
 ### **Access the Source**
-👉 **[View Repository on GitHub](https://github.com/mehrali-hub/StudentDigitalTwinSystem)**
+👉 **[View Repository on GitHub](https://github.com/Astreonix/StudentDigitalTwinSystem)**
 
 ---
 
@@ -94,7 +94,7 @@ The **Amna AI Assistant** is a cutting-edge, fully functional AI agent designed 
 This project serves as a demonstration of **full-stack engineering proficiency**. It shows a deep understanding of combining frontend tooling with backend cloud infrastructure, essential for building modern, intelligent web applications. The choice of TypeScript highlights a commitment to robust, maintainable code quality.
 
 ### **Access the Source**
-👉 **[View Repository on GitHub](https://github.com/mehrali-hub/Amna---AI-assistant)**
+👉 **[View Repository on GitHub](https://github.com/Astreonix/Amna---AI-assistant)**
 
 ---
 
@@ -120,7 +120,7 @@ This project provides a comprehensive analytical deep-dive into the data science
 This project demonstrates **Applied Data Science**. It shows the ability to go beyond simple code execution to perform meaningful **Exploratory Data Analysis (EDA)** and predictive modeling. It highlights an understanding of how to translate raw community data into strategic insights—an invaluable skill for any AI professional.
 
 ### **Access the Source**
-👉 **[View Repository on GitHub](https://github.com/mehrali-hub/pakistan-kaggle-landscape)**
+👉 **[View Repository on GitHub](https://github.com/Astreonix/pakistan-kaggle-landscape)**
 
 ---
 
@@ -144,7 +144,7 @@ The **Fruit Signature AI** project is an applied machine learning initiative tha
 This project highlights your competence in **AI model development**. By building a system that extracts meaning from image data, you demonstrate the analytical rigor required to solve real-world computer vision problems—a core competency for modern AI engineers.
 
 ### **Access the Source**
-👉 **[View Repository on GitHub](https://github.com/mehrali-hub/fruit-signature-ai)**
+👉 **[View Repository on GitHub](https://github.com/Astreonix/fruit-signature-ai)**
 
 ---
 
@@ -170,7 +170,7 @@ The **Arcane Tic-Tac-Toe** is a polished gaming experience that bridges low-leve
 This project showcases an advanced approach to application architecture. By successfully integrating a C++ engine within a web-based environment, you demonstrate the ability to optimize performance-heavy logic for browser accessibility—a key requirement for high-level full-stack development.
 
 ### **Access the Source**
-👉 **[View Repository on GitHub](https://github.com/mehrali-hub/Arcane-Tic-Tac-Toe)**
+👉 **[View Repository on GitHub](https://github.com/Astreonix/Arcane-Tic-Tac-Toe)**
 
 ---
 
@@ -194,7 +194,7 @@ This repository serves as a technical collection of laboratory tasks and practic
 This project represents a solid foundation in the principles of artificial intelligence. It demonstrates the ability to translate complex AI theories into functional Python code, establishing a baseline of competence in algorithmic design and problem-solving.
 
 ### **Access the Source**
-👉 **[View Repository on GitHub](https://github.com/mehrali-hub/Artificial-Intelligence-Labs)**
+👉 **[View Repository on GitHub](https://github.com/Astreonix/Artificial-Intelligence-Labs)**
 
 ---
 
@@ -220,7 +220,7 @@ The **Wine Quality EDA** project is a comprehensive, notebook-driven analysis of
 This project demonstrates your proficiency in **data preparation and statistical analysis**. Showing a systematic approach—from cleaning to correlation—proves you possess the analytical discipline required to turn raw, real-world data into clear, strategic intelligence.
 
 ### **Access the Source**
-👉 **[View Repository on GitHub](https://github.com/mehrali-hub/Zynvex-AI-ML-internship/tree/main/Project-01-Wine-Quality-EDA)**
+👉 **[View Repository on GitHub](https://github.com/Astreonix/Zynvex-AI-ML-internship/tree/main/Project-01-Wine-Quality-EDA)**
 
 ---
 
@@ -244,7 +244,7 @@ The **Used Car Price Prediction** project is an end-to-end regression pipeline d
 This project proves you understand **Model Robustness**. By demonstrating that you can diagnose why a model "collapses" and fix it with regularization, you showcase the critical engineering mindset needed to build production-grade AI systems rather than just running static scripts.
 
 ### **Access the Source**
-👉 **[View Repository on GitHub](https://github.com/mehrali-hub/Zynvex-AI-ML-internship/tree/main/Project-02-Used-Cars-Price-Prediction)**
+👉 **[View Repository on GitHub](https://github.com/Astreonix/Zynvex-AI-ML-internship/tree/main/Project-02-Used-Cars-Price-Prediction)**
 
 ---
 
@@ -268,4 +268,4 @@ The **Python Learning Journey** is a curated repository that tracks my evolution
 This project highlights a disciplined approach to learning and implementation. By transitioning from basic syntax to structured OOP and persistent data management, I demonstrate the ability to write **maintainable, production-ready code**.
 
 ### **Access the Source**
-👉 **[View Repository on GitHub](https://github.com/mehrali-hub/python-learning-journey)**
+👉 **[View Repository on GitHub](https://github.com/Astreonix/python-learning-journey)**

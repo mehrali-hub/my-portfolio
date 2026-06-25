@@ -19,6 +19,6 @@ title = "Mehr Ali"
     headline = "AI Engineer | Machine Learning Engineer | Full-Stack Developer | Tech Blogger"
     bio = "Passionate about building intelligent systems and scalable web applications."
     links = [
-        { github = "https://github.com/mehrali-hub" },
+        { github = "https://github.com/Astreonix" },
         { kaggle = "https://www.kaggle.com/mehralieng" }
     ]
