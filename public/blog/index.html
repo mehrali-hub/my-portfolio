@@ -291,7 +291,7 @@
     "keywords": ["Linux","SSH","Networking","SysAdmin"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "750"
+    "wordCount": "762"
   },
   {
     "@context": "https://schema.org",
@@ -498,7 +498,7 @@
       
   
     <a
-      href="../blogs/"
+      href="../blog/"
       
       class="flex items-center bf-icon-color-hover"
       aria-label="Blogs"
@@ -699,7 +699,7 @@
     
     <div class="px-2">
       <a
-        href="../blogs/"
+        href="../blog/"
         aria-label="Blogs"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -1149,16 +1149,14 @@
     
 </h2>
 <p>Every great engineering project comes with a debugging phase. When I fired up my first connection attempts, the terminal repeatedly blocked my requests with a frustrating loop of errors.</p>
-<p><figure><img
+<figure><img
     class="my-0 rounded-md"
     loading="lazy"
     decoding="async"
     fetchpriority="low"
     alt="Debugging local loopback connections"
-    src="../images/image_57937a.png"
+    src="../images/1.png"
     ></figure>
-
-<em>Figure 1: Confronting the loop of connection refusals.</em></p>
 
 <h3 class="relative group">The Post-Mortem Analysis
     <div id="the-post-mortem-analysis" class="anchor"></div>
@@ -1169,8 +1167,8 @@
     </span>
     
 </h3>
-<p>Look closely at the commands in <strong>image_57937a.png</strong>. The requests were targeting addresses like <code>127.0.0.1</code>.</p>
-<p>In networking, <code>127.0.0.1</code> represents the <strong>localhost</strong> (the local loopback address). It translates literally to <em>&ldquo;the exact machine I am currently typing on.&rdquo;</em> My client laptop was trying to SSH into itself. Because it didn&rsquo;t have an active SSH service listening internally, the operating system immediately dropped the connection.</p>
+<p>Look closely at the commands in <strong>image_57937a.png</strong>. The requests were targeting addresses like example :123.34.87.09.0.0.</p>
+<p>In networking, <code>1.2.3.4.5</code> represents the <strong>localhost</strong> (the local loopback address). It translates literally to <em>&ldquo;the exact machine I am currently typing on.&rdquo;</em> My client laptop was trying to SSH into itself. Because it didn&rsquo;t have an active SSH service listening internally, the operating system immediately dropped the connection.</p>
 <p>To bridge the gap between two physical laptops, we must look past the loopback address and target the server&rsquo;s unique <strong>private network IP address</strong> assigned by the local router.</p>
 <hr>
 
@@ -1233,6 +1231,9 @@ sudo apt update</p>
 <p>To find the safe, internal network IP assigned to the laptop by your router (without exposing public credentials), run:</p>
 <p>ip route get 1 | awk &lsquo;{print $7;exit}&rsquo;</p>
 <p>This isolates the local private IP address. Note this down for the final link.</p>
+<p><a href="../images/9.png" >check the ssh version</a></p>
+<p>now :</p>
+<p><a href="../images/7.png" >Successful remote SSH terminal session into Kali Linux</a></p>
 
 <h2 class="relative group">Phase 3: Establishing the Link
     <div id="phase-3-establishing-the-link" class="anchor"></div>
@@ -1247,6 +1248,7 @@ sudo apt update</p>
 <p>ssh username@remote_private_ip</p>
 <p>The terminal instantly responded, creating a secure cryptographic handshake:he local prompt vanished, replaced by the remote environment:</p>
 <p>The boundary between the two laptops was officially gone. Every keystroke entered from this point forward was executing natively on the hardware of the second machine.</p>
+<p><a href="../images/8.png" >access</a></p>
 
 <h2 class="relative group">Phase 4: Remote File Manipulation
     <div id="phase-4-remote-file-manipulation" class="anchor"></div>
@@ -1259,6 +1261,7 @@ sudo apt update</p>
 </h2>
 <p>To test the integrity of the write permissions over the new connection, I dropped a custom string directly into a new text file on the remote machine:</p>
 <p>echo &ldquo;Welcome to the Astreonix World&rdquo; &gt; welcome.txt</p>
+<p><a href="../images/4.png" >remotely control</a></p>
 
 <h2 class="relative group">Command Breakdown:
     <div id="command-breakdown" class="anchor"></div>
@@ -1274,6 +1277,7 @@ sudo apt update</p>
 </blockquote><p>welcome.txt: The targeted file created in the remote home directory.</p>
 <p>To verify the file&rsquo;s contents without moving an inch, I read the file back remotely:</p>
 <p>cat welcome.txt</p>
+<p><a href="../images/12.png" >file created</a></p>
 
 <h2 class="relative group">Phase 5: Graceful Disconnection
     <div id="phase-5-graceful-disconnection" class="anchor"></div>
