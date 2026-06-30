@@ -9,7 +9,17 @@
     <managingEditor>sheikhmehrali5@gmail.com (Mehr Ali)</managingEditor>
     <webMaster>sheikhmehrali5@gmail.com (Mehr Ali)</webMaster>
     <copyright>© 2026 Mehr Ali</copyright>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tech Tutorials</title>
+      <link>http://localhost:1313/categories/tech-tutorials/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <author>sheikhmehrali5@gmail.com (Mehr Ali)</author>
+      <guid>http://localhost:1313/categories/tech-tutorials/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSH on Mehr Ali</title>
+    <link>http://localhost:1313/tags/ssh/</link>
+    <description>Recent content in SSH on Mehr Ali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sheikhmehrali5@gmail.com (Mehr Ali)</managingEditor>
+    <webMaster>sheikhmehrali5@gmail.com (Mehr Ali)</webMaster>
+    <copyright>© 2026 Mehr Ali</copyright>
+    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Untethered Control: How I Engineered a Secure SSH Tunnel Between My Laptops</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <author>sheikhmehrali5@gmail.com (Mehr Ali)</author>
+      <guid>http://localhost:1313/blog/</guid>
+      <description>&lt;p&gt;What happens when you combine the mindset of an engineer with the vision of an artist? You start looking for ways to break physical boundaries and make your machines talk to each other.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

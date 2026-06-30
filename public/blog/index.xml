@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untethered Control: How I Engineered a Secure SSH Tunnel Between My Laptops on Mehr Ali</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Untethered Control: How I Engineered a Secure SSH Tunnel Between My Laptops on Mehr Ali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sheikhmehrali5@gmail.com (Mehr Ali)</managingEditor>
+    <webMaster>sheikhmehrali5@gmail.com (Mehr Ali)</webMaster>
+    <copyright>© 2026 Mehr Ali</copyright>
+    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
